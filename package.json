@@ -1,0 +1,18 @@
+{
+  "name": "pumpkinshell",
+  "version": "0.9.0",
+  "description": "Halloween-themed terminal prompt with pumpkins, ghosts, and spooky colors",
+  "main": "index.js",
+  "bin": {
+    "pumpkinshell": "./bin/pumpkinshell.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["terminal", "prompt", "shell", "theme", "halloween", "pumpkin", "spooky", "cli", "customization"],
+  "author": "dressup-my-shell",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
