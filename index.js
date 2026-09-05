@@ -59,3 +59,4 @@ function getSpookyGreeting() {
 }
 
 module.exports = { getPrompt, getBanner, getPS1, generateCobweb, getSpookyGreeting };
+
