@@ -13,6 +13,7 @@
   "author": "dressup-my-shell",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.2",
+    "@shellcrafts/colorize": "^1.0.0"
   }
 }
