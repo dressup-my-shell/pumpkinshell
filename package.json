@@ -14,6 +14,6 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
-    "@shellcrafts/colorize": "^1.0.0"
+    "@shellcrafts/colorize": "1.2.1"
   }
 }
